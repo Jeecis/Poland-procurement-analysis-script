@@ -1,0 +1,92 @@
+[
+    {
+        "canEdit": false,
+        "objectId": "ocds-148610-8162df5c-ec6e-4011-aa0b-5cc3d5992923",
+        "tenderType": "1.1.1",
+        "concessionType": null,
+        "state": "Initiated",
+        "initiationDate": "2025-12-11T13:02:44.809Z",
+        "cancellationDate": null,
+        "createdDate": "2025-12-11T12:48:46.967Z",
+        "referenceNumber": "ZP.271.47.2025",
+        "noticeNumber": null,
+        "title": "UTRZYMANIE I KONSERWACJA OŚWIETLENIA ULICZNEGO NA TERENIE GMINY SUCHY LAS W 2026 ROKU",
+        "submissionDate": null,
+        "openDate": null,
+        "notificationCount": 0,
+        "userId": "48e796ae-b966-4fef-865b-e37853641531",
+        "organizationId": "3085",
+        "organizationName": "Gmina Suchy Las",
+        "organizationPartName": null,
+        "organizationCity": "Suchy Las",
+        "organizationProvince": "Wielkopolskie",
+        "tenderPlanOrganizationId": null,
+        "tenderPlanItemsIds": [
+            "08dd33d5-730d-e340-cfbb-120001b085cb_2"
+        ],
+        "isTenderAmountBelowEU": true,
+        "positionRemoved": false,
+        "terms": [
+            {
+                "objectId": "ocds-148610-8162df5c-ec6e-4011-aa0b-5cc3d5992923_1",
+                "termType": "SubmissionOffersDate",
+                "term": "2025-12-19T08:00:00Z",
+                "isValid": true
+            },
+            {
+                "objectId": "ocds-148610-8162df5c-ec6e-4011-aa0b-5cc3d5992923_2",
+                "termType": "OpenOffersDate",
+                "term": "2025-12-19T08:30:00Z",
+                "isValid": true
+            }
+        ],
+        "tenderDocuments": [
+            {
+                "objectId": "ocds-148610-8162df5c-ec6e-4011-aa0b-5cc3d5992923_1",
+                "name": "SWZ i załączniki",
+                "url": null,
+                "tenderDocumentState": "Published",
+                "createDate": "2025-12-11T13:10:20.875Z",
+                "attachment": {
+                    "fileName": "SWZ i załączniki.zip",
+                    "mimeType": "application/x-zip-compressed",
+                    "uniqueAttachmentIdentifier": "4db4a26313b0416d85f91cd4d82791e6",
+                    "hash": "328e39859d68fd6f949e66e4ef5cc5fb80d3b94bc3b12ed24c8e166f31457046",
+                    "isDeleted": false,
+                    "fileSize": 1150677
+                },
+                "publishedDate": "2025-12-11T13:10:29.466Z",
+                "deleteDate": null,
+                "deleteReason": null
+            }
+        ],
+        "stage": "CollectingOffers",
+        "lots": [],
+        "isPartial": false,
+        "numberOfLots": 0,
+        "currentStageReason": null,
+        "bzpNumber": "2025/BZP 00593409/01",
+        "competitionType": null,
+        "competitionKind": null,
+        "noticeConcerns": "Order",
+        "amountToFinanced": null,
+        "amountToFinancedCurrency": null,
+        "amountToFinancedCurrencyText": null,
+        "isAmountToFinancedPublished": false,
+        "phases": [],
+        "offers": [],
+        "additionalInformation": null,
+        "noticeBzpNumberOfTenderResult": null,
+        "tedContractNoticeNumber": null,
+        "contractAwardNoticeNumbers": [],
+        "isPublic": true,
+        "isProceedingOnPlatform": true,
+        "organizationsWithAccess": [
+            "3085",
+            "147924"
+        ],
+        "competitionAliases": [],
+        "validCompetitionAliases": null,
+        "hasAtLeastOneNoticePublished": false
+    }
+]
