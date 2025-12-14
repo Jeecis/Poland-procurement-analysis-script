@@ -2,7 +2,7 @@
 
 This script is used to analyze procurement documents from the Polish government's procurement platform (https://ezamowienia.gov.pl/).
 
-You run 3 scripts to execute the workflow:
+### You run 3 scripts to execute the workflow:
 * Initially you set the environment variables in `.env` file.
     - `KEYWORD`: The keyword to search for in the procurement documents. I used "uliczne" as an example, since it means street in poland and likely will return procurements related to street lighting.
     - `DATE`: The date to search for in the procurement documents. Use the date in the format `YYYY-MM-DD`. This is the initiation date of the procurement. Can be set to yesterday/today to query procuremnts daily.
@@ -56,3 +56,11 @@ You run 3 scripts to execute the workflow:
    .\venv\Scripts\Activate
    python analyze.py
    ```
+
+### Prompt.md
+
+Currently the system prompt is optimized to analyze the existing procurements in regards to Idealights, however, it can be modified to analyze other procurements.
+
+### Potential improvements
+
+Sadly, OpenAI accepts only .pdf files, and tenders may contain other forms which should be converted in that case some other liubrary and script or even manual work should be used to convert the documents to .pdf.
